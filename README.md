@@ -38,6 +38,6 @@ Once we have the IP we will [write our payload](https://github.com/hak5darren/US
 Example: nc 192.168.0.26 7374 < payload.txt
 
 ## Changing Keyboard Layouts
-[Neradoc/Circuitpython_Keyboard_Layouts](https://github.com/Neradoc/Circuitpython_Keyboard_Layouts/blob/main/PICODUCKY.md) 
+[pico-ducky - Changing Keyboard Layouts](https://github.com/dbisu/pico-ducky#changing-keyboard-layouts) 
 
 Default: US
