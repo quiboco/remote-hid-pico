@@ -31,7 +31,7 @@ Now we must discover the IP provided to our Raspberry. To do this, from the atta
   
 Example: nmap 192.168.0.0/24 -Pn -n -p 7374 --open
 
-Once we have the IP we will [write our payload](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript) in a file and we will only have to send it with Netat:
+Once we have the IP we will [write our payload](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript) in a file and we will only have to send it with Netcat:
 
 `nc <ip> <port> < <payload file>`
 
