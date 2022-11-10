@@ -37,5 +37,3 @@ Once we have the IP we will [write our payload](https://github.com/hak5darren/US
 
 Example: nc 192.168.0.26 7374 < payload.txt
 
-## Advise
-I am Spanish so this project is prepared to attack victims with Spanish keyboard. If your target has a US keyboard, you only have to comment the line where it says `line=translateLine(line)` (line 139) inside the function called `runPayload`
